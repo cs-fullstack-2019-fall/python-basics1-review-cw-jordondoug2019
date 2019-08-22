@@ -1,5 +1,5 @@
 # python-basics1-review-cw
-
+2/3 + partial on #3. See classwork.py. Score:4
 ### Problem 1:
 Create a program that prints the user input until they enter 'q' to quit.
 

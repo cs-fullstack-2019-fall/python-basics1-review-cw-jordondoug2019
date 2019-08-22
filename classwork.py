@@ -15,7 +15,7 @@ while(user!="q"):
     if(user=="3"):
          print("3")
     elif(user=='0'):
-         print("error")
+         print("error") # you should print error for any number thats not 1-3
     user=input("Enter a number:")
 
 #Problem 4
